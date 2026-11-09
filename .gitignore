@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+data/mnist/
+outputs/*
+!outputs/.gitkeep
+checkpoints/*
+!checkpoints/.gitkeep
+*.pt
+*.csv
+.DS_Store
